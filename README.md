@@ -1,6 +1,6 @@
 #### Hi 👋, I'm Jeff Castillo
 ##### **Senior Flutter and Dart Developer**
-[![](https://visitcount.itsvg.in/api?id=jeffcas181&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jeffcas181&icon=0&color=1)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Senior Flutter and Dart Developer**
 
